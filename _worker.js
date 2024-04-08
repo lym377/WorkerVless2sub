@@ -15,6 +15,8 @@ let addresses = [
 	'cfip.xxxxxxxx.tk:2096#优选官方线',
 	'hk.100366.xyz#香港',
 	'icook.hk:8443#香港',
+	'www.visakorea.com',
+	'edtunnel-dgp.pages.dev',
 ];
 
 // 设置优选地址api接口
