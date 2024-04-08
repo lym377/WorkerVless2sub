@@ -13,6 +13,8 @@ let addresses = [
 	'c.xf.free.hr:2087#优选官方线路',
 	'cdn.kaiche.tk:2096#优选官方线路',
 	'cfip.xxxxxxxx.tk:2096#优选官方线',
+	'hk.100366.xyz#香港',
+	'icook.hk:8443#香港',
 ];
 
 // 设置优选地址api接口
