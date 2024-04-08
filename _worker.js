@@ -8,7 +8,6 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'www.visakorea.com#优选官方线路',
-	'hk.rweek.top:2052#优选官方线路',
 	'sp.rweek.top:443#优选官方线路',
 	'cf.090227.xyz:443#优选官方线路',
 	'c.xf.free.hr:2087#优选官方线路',
